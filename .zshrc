@@ -60,7 +60,7 @@ alias lscleanup="/System/Library/Frameworks/CoreServices.framework/Frameworks/La
 alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
 
 # Lock the screen (when going AFK)
-alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+alias afk="'/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession' -suspend"
 
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
