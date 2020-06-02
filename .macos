@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-
-
 # Ask for the administrator password upfront
 sudo -v
 
@@ -718,7 +716,6 @@ for app in "Activity Monitor" \
 	"Google Chrome" \
 	"Mail" \
 	"Messages" \
-	"Opera" \
 	"Photos" \
 	"Safari" \
 	"SystemUIServer" \
