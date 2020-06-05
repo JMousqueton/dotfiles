@@ -15,7 +15,11 @@
 | [.macos](https://github.com/JMousqueton/dotfiles/blob/master/.macos) | Prepare the configuration of my mac after a new installation  |
 | [.zshrc](https://github.com/JMousqueton/dotfiles/blob/master/.zhrc) | My Z shell (Zsh) parameters file |
 | [.vimrc](https://github.com/JMousqueton/dotfiles/blob/master/.vimrc) | Config file for VIM |
-|  |  |  
+|  |  | 
+
+## Documentation 
+
+-   [MacOS CLI Commands](https://github.com/JMousqueton/dotfiles/blob/master/CLI.md)
 
 ## Author
 
